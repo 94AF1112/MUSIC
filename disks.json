@@ -1,6 +1,6 @@
 [
         {
-            "author": "Мирон",
+            "author": "Oxxxymiron",
             "albumName": "Горгород",               
             "year": "2015",               
             "genres": [
@@ -9,12 +9,21 @@
 			]
         },
         {
-            "author": "Билан",
+            "author": "Дима Билан",
             "albumName": "Не молчи",               
             "year": "2015",               
             "genres": [
 				"поп",
 				"шансон"
+			]
+        },
+		{
+            "author": "Beyonce",
+            "albumName": "Sweet Dreams",               
+            "year": "2009",               
+            "genres": [
+				"r'n'b",
+				"dance"
 			]
         }
  ]
